@@ -196,7 +196,7 @@ class App(ctk.CTk):
 
     def __init__(self):
         super().__init__()
-        self.title("OppoPods-Win"); self.geometry("460x560"); self.resizable(False,False)
+        self.title("OppoPods-Win"); self.geometry("460x640"); self.resizable(False,False)
         self.pod=PodState(); self._alive=True
         self.icons={}
         for k,v in _ICON_PATH.items():
@@ -323,7 +323,7 @@ class App(ctk.CTk):
 
     def _pop_at_bottom_right(self):
         sw=self.winfo_screenwidth(); sh=self.winfo_screenheight()
-        self.geometry(f"460x560+{sw-460}+{sh-560-40}")
+        self.geometry(f"460x640+{sw-460}+{sh-640-40}")
         self.deiconify(); self.lift(); self.focus_force()
 
     def _battery_tooltip(self):

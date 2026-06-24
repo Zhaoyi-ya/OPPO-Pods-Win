@@ -57,6 +57,8 @@ pyinstaller --onefile --windowed --name "OppoPods-Win" --icon "tuopan.ico" \
 
 [OppoPods](https://github.com/Leaf-lsgtky/OppoPods) by Leaf-lsgtky —— OPPO 私有协议逆向
 
+[OppoPods](https://github.com/1812z/OppoPods) by 1812z —— 游戏模式兼容实现参考
+
 [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) —— 现代 Python GUI 框架
 
 **License**

@@ -1,7 +1,7 @@
 # OppoPods-Win（Python 原型版 · 已归档）
 
 > **本项目已迁移至新版 C# WPF 实现：**
-> **[OPPO Pods For Windows →](https://github.com/Zhao-Yi9027/OPPO-Pods-Desktop)**
+> **[OPPO Pods For Windows →](https://github.com/Zhaoyi-ya/OPPO-Pods-For-Windows)**
 >
 > 新版使用 WPF + WPF-UI (Fluent Design)，支持多型号 OPPO 耳机，功能更完整。
 > 本仓库保留作为 Python 原型参考，不再更新。

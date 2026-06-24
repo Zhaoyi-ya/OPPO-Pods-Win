@@ -1,4 +1,12 @@
-# OppoPods-Win
+# OppoPods-Win（Python 原型版 · 已归档）
+
+> **本项目已迁移至新版 C# WPF 实现：**
+> **[OPPO Pods For Windows →](https://github.com/Zhao-Yi9027/OPPO-Pods-Desktop)**
+>
+> 新版使用 WPF + WPF-UI (Fluent Design)，支持多型号 OPPO 耳机，功能更完整。
+> 本仓库保留作为 Python 原型参考，不再更新。
+
+---
 
 Windows 桌面端 OPPO Enco Free4 耳机控制工具，通过蓝牙 RFCOMM 协议直接与耳机通信。
 
